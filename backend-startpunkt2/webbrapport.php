@@ -35,21 +35,17 @@
 
 <p> <b>Order By:</b> Kan t.ex. tillämpas på like. T.ex. kan du ordna tabellen i alfabetisk ordning. Kan ordna i DESC (fallande ordning) eller ASC (stigande ordning) </p>
 
-<h2> Reflektioner: </h2>
-Krävande kurs. Blev lite oklart vilken punkt hör till vad för projektbeskrivningen är olika för försenad och normala projekt 2 men här är en relativ kompakt slutsats:
-
 <p>Uppgift 1: Databas: Verkar som en lätt uppgift, men tog nog en god stund att förstå databas begreppen, och blev bättre medan jag gjorde. Först till slut skulle jag egentligen kunna förklara dom. Begreppen borde inte vara direkt i uppgift 1.
-<p>Uppgift 2/3: Har registrering fungerande med hashing. Har en fungerande login, men avbryts i slutet när man användarnamnet inte kommer upp i menyn.
-<p>Uppgift 4: Har ett system hur man kan ta bort en profil som kräver lösenords inmatning blev ganska klurigt och få allt det här med databasen. Och speciellt när jag hadde problem med login vidareutvecklades problemet till denhär uppgiften.
+<p>Uppgift 2/3: Har registrering fungerande med hashing. Har en fungerande login, men ibland kommer användarnamnet inte upp i menyn och ibland kommer den, därför satt jag profile.php i menyn.
+<p>Uppgift 4: Har ett system hur man kan ta bort en profil som kräver lösenords inmatning blev ganska klurigt och få allt det här med databasen. 
 <p>Uppgift 5 och 6 Filtrering och sortering: Det här satt jag överlägset mest tid på och strula över för det tog väldigt lång tid att ens börja detta: Slutsatsen var att göra dessa i menyn: På tanke att detta var en Backend kurs var jag nöjd med att logiken och min ide fungerande. Kan sortera enligt lön, likes och preferens i descending order. Tänkte ascending order skulle vara lite onödigt.
 <p>Uppgift 5 och 6 Pagination: Har system att uppdatera sin egen profil. Har en halft fungerande pagination, koden verkar korrekt, men fungerar inte helt fullt till nån orsak. Igen svårt att kunna uppdatera profilen när login int fungerar.
 <p>Uppgift 7 Gilla eller ogilla: Min like och dislike function fungerar till 100% (lite delay, och måste refresha sidan). Tog länge att få fixat, speciellt dislike.
-<p>Uppgift 8 Comments: Har ungefär lektionskoden, och den var fungerande och slutade fungera. Börja fungera igen när jag böt html koden före include model_ad. Fungerade inte om den var efter include model_ad.php.
+<p>Uppgift 8 Comments: Har ungefär lektionskoden, och den var fungerande och slutade fungera. Börja fungera igen när jag böt html koden före include model_ad. Fungerade inte om den var efter include model_ad.php. 
 
 <p>Uppgift 9 CMS: Fanns inte i försenade så lämnade till sist ogjort och fokusera på grunderna. 
 
-<p>Uppgift 10: Inspelningarna var bra för att Backend kräver mycke övning. Tycker kursen var rolig på grund av dens utmaning. Det som tog mest tid var att börja på någonting för man hade inte så mycket kunskap av Backend tidigare. Jag siktade att få vissa punkter gjorda fullständigt i projekt 2 så jag skulle hoppeligen ändå nå till en 3 i kursen tilsammans på basen av förhöret och första projektet.
-
+<p>Uppgift 10: Inspelningarna var bra för att Backend kräver mycket övning, vart ingår repetition. Tycker kursen var rolig på grund av dens utmaning. Det som tog mest tid var att börja på någonting för man hade inte så mycket kunskap av Backend tidigare. Jag siktade att få vissa punkter gjorda fullständigt i projekt 2 så jag skulle hoppeligen ändå nå till en 3 i kursen tilsammans på basen av förhöret och första projektet.
 
 
                
