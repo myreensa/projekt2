@@ -1,0 +1,7 @@
+INSERT INTO `profiles` (`id`, ``username`, `realname`, `passhash`, `zipcode`, `bio`, `salary`, `preference`, `email`, `likes) 
+VALUES (NULL, 'skurkkis', 'Skurk Jönsson', 'superHemlis', '00420', 'Jag är en riktig förortsskurk', '20', '3', 'skurk@arcada.fi', '5');
+
+
+
+
+INSERT INTO `comments` (`id`, `user`, `comment`, `profile_id`, `reply_id`) VALUES (NULL, 'skurkkis', 'Morjens', '1', '2');
